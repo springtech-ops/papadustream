@@ -13,7 +13,7 @@
 <p align="center">
   Nouvelle adresse officielle <strong>Papa du Stream</strong>.<br>
   Accédez à vos films et séries en streaming avec <strong>PapaDuStream Streaming</strong>.<br>
-  <a href="https://jtrouve.com/papadustream/" target="_blank"><strong>👉 PAPA DU STREAM</strong></a>
+  <a href="https://jtrouve.com/papadustream/" target="_blank"><strong>[ici]👉 PAPA DU STREAM</strong></a>
 </p>
 
 <p align="center">
