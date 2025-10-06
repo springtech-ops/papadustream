@@ -1,7 +1,7 @@
 <h1 align="center">🎬 PAPA DU STREAM – NOUVELLE ADRESSE OFFICIELLE</h1>
 
 <p align="center">
-  <em>PapaDuStream.com – Découvrez la nouvelle plateforme pour regarder vos films et séries préférés en streaming, en haute qualité et sans interruption.</em>
+  <em>PapaDuStream – Découvrez la nouvelle plateforme pour regarder vos films et séries préférés en streaming, en haute qualité et sans interruption.</em>
 </p>
 
 <p align="center">
